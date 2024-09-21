@@ -1,0 +1,13 @@
+# DB
+*.sqlite
+
+# Private data
+settings.py
+*.session
+
+# Results
+*.xlsx
+
+# venv
+/venv
+/__pycache__
